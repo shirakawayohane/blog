@@ -37,8 +37,6 @@
     "autoprefixer": "^10.4.4",
     "babel-plugin-inline-react-svg": "^2.0.1",
     "babel-plugin-superjson-next": "^0.4.3",
-    "eslint": "8.11.0",
-    "eslint-config-next": "12.1.0",
     "postcss": "^8.4.12",
     "sass": "^1.49.9",
     "tailwindcss": "^3.0.23",
